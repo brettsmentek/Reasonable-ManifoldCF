@@ -1,0 +1,10 @@
+Apache ManifoldCF Plugin for SharePoint 2013 requires
+----------------------------------------------------
+* Microsoft SharePoint version 5.0 (2013)
+
+For running Apache ManifoldCF Plugin for SharePoint 2013:
+-------------------------------------------------------
+
+* See README.txt
+
+

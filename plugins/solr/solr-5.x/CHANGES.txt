@@ -1,0 +1,15 @@
+Apache ManifoldCF Plugin for Apache Solr 5.x change Log
+$Id: CHANGES.txt 1691941 2015-07-20 13:32:39Z kwright $
+
+======================= Release 2.2 =====================
+
+CONNECTORS-1194: Stale connection checks enabled.
+(Karl Wright)
+
+CONNECTORS-1185: Make sure socket timeouts are actually honored in http connections.
+(Ahmet Arslan)
+
+======================= Release 2.1 =====================
+
+Initial commit.
+(Ahmet Arslan)

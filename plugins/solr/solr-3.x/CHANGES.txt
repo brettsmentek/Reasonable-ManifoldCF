@@ -1,0 +1,60 @@
+Apache ManifoldCF Plugin for Apache Solr 3.x change Log
+$Id: CHANGES.txt 1691934 2015-07-20 13:25:22Z kwright $
+
+======================= Release 2.2 =====================
+
+CONNECTORS-1194: Stale connection checks enabled.
+(Karl Wright)
+
+======================= Release 2.1 =====================
+
+CONNECTORS-914: Go to a Maven build system.
+(Ahmet Arslan)
+
+CONNECTORS-934 : Check if log level is enabled before constructing log message.
+(Ahmet Arslan)
+
+======================= Release 2.0 =====================
+
+CONNECTORS-886: Provide [allow|deny]_token_parent fields.
+Upgrade to this version now requires reindexing.
+(Shinichiro Abe, Karl Wright)
+
+======================= Release 1.1 =====================
+
+CONNECTORS-825: Fix infinite loop in new code.
+(Shinichiro Abe)
+
+Add functionality making the plugin compatible with multi-domain
+features of ManifoldCF.  Specifically, allow multiple domain/username
+tuples to be passed in the request.
+(Karl Wright)
+
+======================= Release 0.4 =====================
+
+CONNECTORS-534: Repackage plugins to have a true binary release,
+with appropriate DEPENDENCIES.txt, README's etc.
+(Karl Wright)
+
+======================= Release 0.3 =====================
+
+Update to Solr 3.6.2.
+(Karl Wright)
+
+======================= Release 0.2 =====================
+
+CONNECTORS-485: Update to Solr 3.6.
+(Karl Wright)
+
+CONNECTORS-354: Add a parameter to allow the maximum connection pool
+size to be configurated in solrconfig.xml.
+(Karl Wright)
+
+CONNECTORS-333: Use multithreaded connection manager and tcp-no-delay
+in order to avoid sockets accumulating in CLOSE_WAIT.
+(Simon Willnauer via Karl Wright)
+
+======================= Release 0.1 =====================
+
+Initial commit.
+(Karl Wright)

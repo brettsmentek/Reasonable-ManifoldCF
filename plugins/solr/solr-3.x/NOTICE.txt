@@ -1,0 +1,5 @@
+Apache ManifoldCF Plugin for Apache Solr 3.x
+Copyright 2010-2014 The Apache Software Foundation
+
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
