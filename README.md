@@ -31,5 +31,7 @@ MCF is a crawler framework that supports multiple output connections, including 
 - Go to: http://localhost:8345/mcf-crawler-ui/login.jsp
 - User: admin
 - Password: admin
+- See ManifoldCF end-user [documentation](https://manifoldcf.apache.org/release/trunk/en_US/end-user-documentation.html) to configure ManifoldCF for your input and output connections
+- Change throttling for all connections to 105
 
 
